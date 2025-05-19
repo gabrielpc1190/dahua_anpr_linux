@@ -7,5 +7,5 @@ NETSDK_LIB_PATH="$SCRIPT_DIR/venv/lib/python3.11/site-packages/NetSDK/Libs/linux
 export LD_LIBRARY_PATH="$NETSDK_LIB_PATH:$LD_LIBRARY_PATH"
 # Activate venv and run script
 source "$SCRIPT_DIR/venv/bin/activate"
-python "$SCRIPT_DIR/get_plates.py"
+python "$SCRIPT_DIR/get_plates_csv.py"
 deactivate
