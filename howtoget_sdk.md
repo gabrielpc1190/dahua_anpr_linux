@@ -66,11 +66,9 @@ After these steps, the Dahua NetSDK should be ready for the Python script to use
 
 **Points to Note in this Documentation:**
 
-* It uses the specific download link you provided as an example but emphasizes finding the *actual* `.whl` file within the extracted package.
-* It highlights the potential discrepancy between the version in the ZIP filename and the version in the `.whl` filename, instructing the user to use the name of the `.whl` file they find.
 * It reinforces the use of a virtual environment.
 * It includes a basic import test for verification.
 * It reiterates the need for system library dependencies.
 
-This should provide a clear guide for someone setting up the SDK for your project.
+This should provide a clear guide for someone setting up the SDK for this project.
 
