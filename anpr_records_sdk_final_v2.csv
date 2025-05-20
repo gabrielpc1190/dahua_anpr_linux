@@ -1,0 +1,20 @@
+Blocklist,VehicleType,PlateColor,PlateNo,PlateSize,Allowlist,SnapshotSource,SubscribedPlatformIP,Time,VehicleColor,VehicleFrontOrBack,VehicleLogo,SDKEventType,ImageSize,ImageFilename
+No,Pickup,Red,237898,528*448,No,SnapCatEnum:0,,2025-05-19 14:36:15,Gray,Vehicle Front,Mitsubishi,SDKEventType(23),3926982,anpr_images/20250519_143615_762_237898_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,864243,336*544,No,SnapCatEnum:1,,2025-05-19 14:37:18,Black,Unknown Direction,Unknown,SDKEventType(23),4466763,anpr_images/20250519_143718_618_864243_TRAFFICJUNCTION.jpg
+No,Pickup,Red,165000,480*464,No,SnapCatEnum:0,,2025-05-19 15:26:25,Red,Vehicle Front,Toyota2,SDKEventType(23),3581832,anpr_images/20250519_152625_430_165000_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,880236,352*400,No,SnapCatEnum:1,,2025-05-19 15:39:19,Black,Unknown Direction,Unknown,SDKEventType(23),3709112,anpr_images/20250519_153919_264_880236_TRAFFICJUNCTION.jpg
+No,Pickup,White,E333778,496*416,No,SnapCatEnum:0,,2025-05-19 15:43:04,Silver,Vehicle Back,Unknown,SDKEventType(23),3461118,anpr_images/20250519_154304_021_E333778_TRAFFICJUNCTION.jpg
+No,SUV,White,670035,448*384,No,SnapCatEnum:0,,2025-05-19 16:41:35,Brown,Vehicle Front,Unknown,SDKEventType(23),3200316,anpr_images/20250519_164135_895_670035_TRAFFICJUNCTION.jpg
+No,SUV,White,FSC259,496*496,No,SnapCatEnum:0,,2025-05-19 16:41:40,White,Vehicle Back,Hyundai,SDKEventType(23),2884396,anpr_images/20250519_164140_752_FSC259_TRAFFICJUNCTION.jpg
+No,MicroTruck,White,DADT,368*352,No,SnapCatEnum:0,,2025-05-19 16:44:08,White,Vehicle Back,Unknown,SDKEventType(23),3311425,anpr_images/20250519_164408_289_DADT_TRAFFICJUNCTION.jpg
+No,SUV,White,659936,512*512,No,SnapCatEnum:0,,2025-05-19 16:45:09,Blue,Vehicle Back,Toyota,SDKEventType(23),2970595,anpr_images/20250519_164509_642_659936_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,84901,336*448,No,SnapCatEnum:1,,2025-05-19 16:47:15,Black,Unknown Direction,Unknown,SDKEventType(23),3378873,anpr_images/20250519_164715_770_84901_TRAFFICJUNCTION.jpg
+No,Pickup,White,333770,256*256,No,SnapCatEnum:0,,2025-05-19 16:47:32,White,Vehicle Front,Subaru,SDKEventType(23),3426693,anpr_images/20250519_164732_587_333770_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,73770,384*368,No,SnapCatEnum:1,,2025-05-19 16:59:15,Black,Unknown Direction,Unknown,SDKEventType(23),3200885,anpr_images/20250519_165915_856_73770_TRAFFICJUNCTION.jpg
+No,Motorcycle,Blue,79877,368*432,No,SnapCatEnum:1,,2025-05-19 17:06:24,Black,Unknown Direction,Unknown,SDKEventType(23),2995309,anpr_images/20250519_170624_671_79877_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,686726,304*288,No,SnapCatEnum:1,,2025-05-19 17:49:59,Black,Unknown Direction,Unknown,SDKEventType(23),1971540,anpr_images/20250519_174959_577_686726_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,457300,352*288,No,SnapCatEnum:1,,2025-05-19 17:54:09,Black,Unknown Direction,Unknown,SDKEventType(23),1828153,anpr_images/20250519_175409_851_457300_TRAFFICJUNCTION.jpg
+No,Motorcycle,White,77482,352*480,No,SnapCatEnum:1,,2025-05-19 18:10:26,Black,Unknown Direction,Unknown,SDKEventType(23),1447924,anpr_images/20250519_181026_415_77482_TRAFFICJUNCTION.jpg
+No,SUV,White,35752,464*384,No,SnapCatEnum:0,,2025-05-19 18:24:03,Gray,Vehicle Front,Unknown,SDKEventType(23),1597217,anpr_images/20250519_182403_747_35752_TRAFFICJUNCTION.jpg
+No,SUV,White,BZM421,496*480,No,SnapCatEnum:0,,2025-05-19 18:24:06,White,Vehicle Back,Volvo2,SDKEventType(23),1356678,anpr_images/20250519_182406_258_BZM421_TRAFFICJUNCTION.jpg
+No,SUV,White,BXJ800,576*464,No,SnapCatEnum:0,,2025-05-19 18:24:10,Black,Vehicle Back,Porsche2,SDKEventType(23),1598200,anpr_images/20250519_182410_595_BXJ800_TRAFFICJUNCTION.jpg
